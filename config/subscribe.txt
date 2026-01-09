@@ -1,6 +1,6 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-
+https://github.com/suzukua/iptv-cd-telecom/blob/master/home/udpxy_iptv.m3u8
 
 
 
