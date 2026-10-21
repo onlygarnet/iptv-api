@@ -48,9 +48,9 @@ Name: 山西卫视, URL: http://192.168.100.1:4022/udp/239.94.0.93:5140, From: s
 Name: 四川卫视, URL: http://192.168.100.1:4022/udp/239.94.0.59:5140, From: subscribe, IPv_Type: ipv4, Location: IANA, ISP: 局域网IP(Private-Use), Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 山东卫视, URL: http://192.168.100.1:4022/udp/239.94.0.69:5140, From: subscribe, IPv_Type: ipv4, Location: IANA, ISP: 局域网IP(Private-Use), Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 辽宁卫视, URL: http://192.168.100.1:4022/udp/239.94.0.101:5140, From: subscribe, IPv_Type: ipv4, Location: IANA, ISP: 局域网IP(Private-Use), Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 深圳卫视, URL: http://192.168.100.1:4022/udp/239.94.0.66:5140, From: subscribe, IPv_Type: ipv4, Location: IANA, ISP: 局域网IP(Private-Use), Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 西藏卫视, URL: http://192.168.100.1:4022/udp/239.94.0.97:5140, From: subscribe, IPv_Type: ipv4, Location: IANA, ISP: 局域网IP(Private-Use), Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 云南卫视, URL: http://192.168.100.1:4022/udp/239.94.0.90:5140, From: subscribe, IPv_Type: ipv4, Location: IANA, ISP: 局域网IP(Private-Use), Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 新疆卫视, URL: http://192.168.100.1:4022/udp/239.94.0.98:5140, From: subscribe, IPv_Type: ipv4, Location: IANA, ISP: 局域网IP(Private-Use), Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 天津卫视, URL: http://192.168.100.1:4022/udp/239.94.0.68:5140, From: subscribe, IPv_Type: ipv4, Location: IANA, ISP: 局域网IP(Private-Use), Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 云南卫视, URL: http://192.168.100.1:4022/udp/239.94.0.90:5140, From: subscribe, IPv_Type: ipv4, Location: IANA, ISP: 局域网IP(Private-Use), Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 西藏卫视, URL: http://192.168.100.1:4022/udp/239.94.0.97:5140, From: subscribe, IPv_Type: ipv4, Location: IANA, ISP: 局域网IP(Private-Use), Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 新疆卫视, URL: http://192.168.100.1:4022/udp/239.94.0.98:5140, From: subscribe, IPv_Type: ipv4, Location: IANA, ISP: 局域网IP(Private-Use), Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 深圳卫视, URL: http://192.168.100.1:4022/udp/239.94.0.66:5140, From: subscribe, IPv_Type: ipv4, Location: IANA, ISP: 局域网IP(Private-Use), Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 三沙卫视, URL: http://192.168.100.1:4022/udp/239.94.0.105:5140, From: subscribe, IPv_Type: ipv4, Location: IANA, ISP: 局域网IP(Private-Use), Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
